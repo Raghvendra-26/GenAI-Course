@@ -5,3 +5,4 @@ dotenv
 langchain-google-genai
 langchain-anthropic
 streamlit
+langchain-groq
